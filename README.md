@@ -1,14 +1,12 @@
-# CARNET D'EXERCICES
+# Exercise Notebook
 
-Ce carnet montre mon évolution en développement web, exercice par exercice.
+This notebook shows my progress in web development, exercise by exercise.
 
-## Technologies
-- HTML
-- CSS
-- JavaScript
+## Content
 
-## Contenu
-Chaque carte est un exercice complet : une consigne, un champ ou un bouton et le résultat qui s'affiche dans la page.
+Each card is a complete exercise.
 
-## Voir le carnet
-Lien à venir.
+## See the notebook
+
+Link coming soon.
+

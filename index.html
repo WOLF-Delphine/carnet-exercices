@@ -1,23 +1,23 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Exercice 01</title>
-    <link rel="stylesheet" href="./style.css">
-</head>
-<body>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
     <main>
-        <div>
+      <div class="card">
         <h1>Est-ce un palindrome ?</h1>
 
         <label for="user-word">MOT</label>
-        <input type="text" name="word" id="user-word">
+        <input type="text" name="word" id="user-word" />
 
-        <button type="button">Valider</button>
-        <p><span>Aucun mot à vérifier</span></p>
-        </div>
+        <button type="button" id="validate-button">Valider</button>
+        <p><span id="result">Aucun mot à vérifier</span></p>
+      </div>
     </main>
     <script src="./script.js"></script>
-</body>
+  </body>
 </html>
